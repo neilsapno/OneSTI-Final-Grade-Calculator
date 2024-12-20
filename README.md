@@ -5,4 +5,4 @@ Here is my personal project, OneSTI Final Grade Calculator, a chromium extension
 - Display GWA
 
 *Tutorial on how to install:*
-[![Watch the video](https://github.com/neilsapno/OneSTI-Final-Grade-Calculator/blob/master/images/icon-128.png?raw=true)](https://www.youtube.com/watch?v=oG4dAnrq6hU)
+<video src='https://github.com/neilsapno/OneSTI-Final-Grade-Calculator/raw/refs/heads/master/onefinal-tuts.mp4' width=180 />
